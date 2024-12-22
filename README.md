@@ -6,7 +6,7 @@ I am also the creator of **[clayside](https://clayside.co)** , **[ai-agenci](htt
 ##  Business
 - **[Clayside](https://clayside.co)**: Explore my Notion-based templates and resources for productivity, creativity, and business.
 - **[AI-Agenci](https://ai-agenci.com)**: Discover insights, tools, and innovations in the world of Artificial Intelligence and AI Agents.
-- **[Consulting](https://ai-agenci.com/blog)**: Read thought-provoking articles and tutorials about tech, AI, and productivity.
+- **[Consulting](https://ai-agenci.com/blog)**: Reach out For consultations
 
 ##  Featured Gists
 - **[AI Agent Workflow](https://gist.github.com/your-username/example2)**: Key insights into designing efficient AI agent workflows.
@@ -37,7 +37,7 @@ If you would like to support me, you can sponsor me on github, and subscribe to 
 - **[Consulting]()**
 - **[Losing My Hands]()**
 
-## Talks and Podcasts¶
+## Talks and Podcasts
 - **[Keynote: Pydantic is all you need](https://clayside.co)**
 - **[Podcast: Latent Space](https://clayside.co)**
 - **[Podcast: Building with AI](https://clayside.co)**
