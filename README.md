@@ -1,15 +1,15 @@
 ## 💥 whats up
 
-Currently working as an independent consultant. I use my expertise in recommendation systems and ai agent development to help fast-growing startups build out their RAG applications.
-I am also the creator of **[clayside](https://clayside.co)** , **[ai-agenci](https://ai-agenci.com)**, and a Machine Learning and data science student.
+Currently working as an independent consultant. I use my expertise in recommendation systems and ai agent development to help
+fast-growing startups build out their RAG applications. I am also the creator of **[clayside](https://clayside.co)** , **[ai-agenci](https://ai-agenci.com)**, and a Machine Learning and data science student.
 
 ##  Business
 - **[Clayside](https://clayside.co)**: Explore my Notion-based templates and resources for productivity, creativity, and business.
 - **[AI-Agenci](https://ai-agenci.com)**: Discover insights, tools, and innovations in the world of Artificial Intelligence and AI Agents.
-- **[Consulting](https://ai-agenci.com/blog)**: Reach out For consultations
+- **[Consulting](https://ai-agenci.com/blog)**: Reach out for expertise advice regarding  Ai Agent, Development, RAG systems  and applications
 
 ##  Featured Gists
-- **[AI Agent Workflow](https://gist.github.com/your-username/example2)**: Key insights into designing efficient AI agent workflows.
+- **[AI Agent Workflow](/)**: Key insights into designing efficient AI agent workflows.
        
 ## Support
 If you would like to support me, you can sponsor me on github, and subscribe to my newsletter.
