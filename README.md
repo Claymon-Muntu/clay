@@ -9,5 +9,5 @@ I am the creator and founder of **[Clayside](https://clayside.co)** and  **[Ai-A
 - **[Consulting](https://Consulting.ai-agenci.com)** : Reach out for expertise advice regarding Ai Agents, Ai Agents Development & seamless intergration in Business, RAG systems & applications
 
 ##  Blog
-- **[AI Agent & RAG Blog](https://blog.ai-agenci.com)** : Key insights into designing efficient AI agent workflows.
+- **[AI Agent & RAG Blog](https://blog.ai-agenci.com)** : Key insights into designing efficient AI agent workflows
        
