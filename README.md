@@ -1,7 +1,7 @@
 ##  whats up
 
-Currently working as an independent consultant. I use my expertise in recommendation systems and ai agent development to help fast-growing startups build out their RAG applications.
-I am also the creator and founder of **[clayside](https://clayside.co)** and  **[ai-agenci](https://ai-agenci.com)** . I am also a Machine Learning and data science student
+Currently working as an independent consultant. I use my expertise in recommendation systems and AI Agent development to help fast-growing startups build out their AI Agents & RAG applications.
+I am the creator and founder of **[Clayside](https://clayside.co)** and  **[Ai-Agenci](https://ai-agenci.com)** . I am also a Machine Learning and data science student
 
 ##  Business
 - **[Clayside](https://clayside.co)** : Explore my Notion-based templates and resources for productivity, creativity, and business.
